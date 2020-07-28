@@ -13,7 +13,7 @@ komponen
     <li>dan lain lain</li>
  </ul>
 <h2>Syarat penggunaan : </h2>
-<p>Ada baiknya menggunakan sistem ini, ada beberapa hal yang dibutuhkan seperti</p>
+<p>Ada baiknya sebelum menggunakan sistem ini, ada beberapa hal yang dibutuhkan seperti</p>
 <ul>
     <li>PHP >= 7.2.5</li>
     <li>BCMath PHP Extension</li>
